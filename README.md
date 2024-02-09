@@ -3,8 +3,8 @@ TODO: Upload video
 
 # Instructions:
 
-* We created a cohere email for you to test the addon in our ORG
-* Download the extension.zip file and load it
+* We created a cohere email for you to test the addon in our ORG, please provide an email to send the creds in the issues section
+* Download the `extension.zip` file and load it
 * Using the addon link a meeting to RAGenda
 * Join the meeting and open the extension
 
