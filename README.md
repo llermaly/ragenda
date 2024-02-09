@@ -1,5 +1,10 @@
 # Example video
-TODO: Upload video
+
+Installing chrome extension. In the right you can see the RAGenda item on the calendar.
+
+<video width="420" height="240" controls>
+  <source src="tutorial.mp4" type="video/mp4">
+</video>
 
 # Instructions:
 
